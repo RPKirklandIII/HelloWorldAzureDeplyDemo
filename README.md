@@ -1,4 +1,3 @@
-# HelloWorldAzureDeplyDemo
 Hello World Azure Deply Demo
 ====================
 Simple Hello World demo which shows that you can use the Azure Deploy Button without a custom Azure Resource Manager template (azuredeploy.json).
